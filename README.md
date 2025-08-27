@@ -28,7 +28,7 @@ It provides authentication, request forwarding, and centralized entry point for 
 ### Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/api-gateway.git
+   git clone https://github.com/IT21215438/API-gateway.git
    cd api-gateway
 2. Install dependencies
    go mod tidy
